@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/SmartWatch/static/css/main.892c893f.chunk.css",
-    "main.js": "/SmartWatch/static/js/main.8b3d5389.chunk.js",
-    "main.js.map": "/SmartWatch/static/js/main.8b3d5389.chunk.js.map",
-    "runtime-main.js": "/SmartWatch/static/js/runtime-main.922bf6b6.js",
-    "runtime-main.js.map": "/SmartWatch/static/js/runtime-main.922bf6b6.js.map",
-    "static/js/2.5d1e5da7.chunk.js": "/SmartWatch/static/js/2.5d1e5da7.chunk.js",
-    "static/js/2.5d1e5da7.chunk.js.map": "/SmartWatch/static/js/2.5d1e5da7.chunk.js.map",
-    "static/js/3.c94bc900.chunk.js": "/SmartWatch/static/js/3.c94bc900.chunk.js",
-    "static/js/3.c94bc900.chunk.js.map": "/SmartWatch/static/js/3.c94bc900.chunk.js.map",
-    "index.html": "/SmartWatch/index.html",
-    "static/css/main.892c893f.chunk.css.map": "/SmartWatch/static/css/main.892c893f.chunk.css.map",
-    "static/js/2.5d1e5da7.chunk.js.LICENSE.txt": "/SmartWatch/static/js/2.5d1e5da7.chunk.js.LICENSE.txt"
+    "main.css": "/Smart_Watch/static/css/main.5f3fe677.chunk.css",
+    "main.js": "/Smart_Watch/static/js/main.bd5bd773.chunk.js",
+    "main.js.map": "/Smart_Watch/static/js/main.bd5bd773.chunk.js.map",
+    "runtime-main.js": "/Smart_Watch/static/js/runtime-main.4e573300.js",
+    "runtime-main.js.map": "/Smart_Watch/static/js/runtime-main.4e573300.js.map",
+    "static/js/2.5d1e5da7.chunk.js": "/Smart_Watch/static/js/2.5d1e5da7.chunk.js",
+    "static/js/2.5d1e5da7.chunk.js.map": "/Smart_Watch/static/js/2.5d1e5da7.chunk.js.map",
+    "static/js/3.c94bc900.chunk.js": "/Smart_Watch/static/js/3.c94bc900.chunk.js",
+    "static/js/3.c94bc900.chunk.js.map": "/Smart_Watch/static/js/3.c94bc900.chunk.js.map",
+    "index.html": "/Smart_Watch/index.html",
+    "static/css/main.5f3fe677.chunk.css.map": "/Smart_Watch/static/css/main.5f3fe677.chunk.css.map",
+    "static/js/2.5d1e5da7.chunk.js.LICENSE.txt": "/Smart_Watch/static/js/2.5d1e5da7.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.922bf6b6.js",
+    "static/js/runtime-main.4e573300.js",
     "static/js/2.5d1e5da7.chunk.js",
-    "static/css/main.892c893f.chunk.css",
-    "static/js/main.8b3d5389.chunk.js"
+    "static/css/main.5f3fe677.chunk.css",
+    "static/js/main.bd5bd773.chunk.js"
   ]
 }
